@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Historic Downtown",
+      "description": "Explore charming shops, old architecture, and local cafes in the heart of the town.",
+      "image": "images/downtown.webp",
+      "address": "123 Main St, City Center"
+    },
+    {
+      "title": "City Park",
+      "description": "Enjoy family fun, walking trails, and events in our beautiful central park.",
+      "image": "images/park.webp",
+      "address": "456 Park Ave, Green District"
+    },
+    {
+      "title": "Art Walk",
+      "description": "Take a self-guided tour of murals, sculptures, and galleries scattered through the city.",
+      "image": "images/artwalk.webp",
+      "address": "789 Art St, Downtown"
+    },
+    {
+      "title": "Local Eats",
+      "description": "Taste your way through diverse restaurants, food trucks, and farmer’s markets.",
+      "image": "images/food.webp",
+      "address": "Various locations"
+    },
+    {
+      "title": "Community Theater",
+      "description": "Catch a play, musical, or comedy night at the local performing arts center.",
+      "image": "images/theater.webp",
+      "address": "101 Theater Rd, Arts District"
+    },
+    {
+      "title": "Lake Adventure",
+      "description": "Kayak, fish, or relax by the water at our nearby scenic lake.",
+      "image": "images/lake.webp",
+      "address": "200 Lakeview Dr, Lakeside"
+    },
+    {
+      "title": "Annual Festival",
+      "description": "Celebrate with live music, crafts, and food each summer at our city’s biggest festival.",
+      "image": "images/festival.webp",
+      "address": "Main Street, Festival Grounds"
+    },
+    {
+      "title": "Farm Visits",
+      "description": "Get a hands-on farm experience with seasonal events and tours.",
+      "image": "images/farm.webp",
+      "address": "345 Country Rd, Rural Area"
+    }
+  ]
+  
